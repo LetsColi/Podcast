@@ -27,7 +27,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -40,8 +40,22 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney e Image Generator Para gerar capas
+- Midjourney e Image Generator para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+
+
+
+  ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de podcast e vamos criar um podcast sobre a parte jurídica de um banco, focado em bancos federais, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para esse podcast que tenha um trocadilho relacionado a banco. O podcast vai falar sobre dicas e novidades sobre o trabalho jurídico em bancos federais.
+
+
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| roteiro | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast sobre a parte jurídica de um banco, focado em bancos federais, cujo nome é "A Defesa dos Cofres Perdidos: Histórias e dicas do universo jurídico bancário" com público alvo adultos leigos no assunto
 
 ## 📚 Materiais
 
