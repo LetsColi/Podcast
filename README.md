@@ -60,4 +60,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 
 # Podcast
-[Ouça o episódio do podcast clicando aqui](https://drive.google.com/uc?export=download&id=1y-zT4msvUxPSoJskxo9mgv92nq_jG8UI)
+[Ouça o episódio do podcast clicando aqui](https://drive.google.com/file/d/1y-zT4msvUxPSoJskxo9mgv92nq_jG8UI/view)
