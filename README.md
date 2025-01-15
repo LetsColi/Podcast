@@ -63,6 +63,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 
 <audio controls>
-  <source src="https://github.com/LetsColi/Podcast/blob/main/PodCast.mp3" type="audio/mp3">
+  <source src="https://raw.githubusercontent.com/LetsColi/Podcast/main/PodCast.mp3" type="audio/mp3">
   Seu navegador não suporta o elemento de áudio.
 </audio>
