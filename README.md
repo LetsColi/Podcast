@@ -60,10 +60,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 
 # Podcast
-
-Ouça o episódio do nosso podcast aqui:
-
-<audio controls>
-  <source src="https://drive.google.com/uc?export=download&id=1y-zT4msvUxPSoJskxo9mgv92nq_jG8UI" type="audio/mp3">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
+[Ouça o episódio do podcast clicando aqui](https://drive.google.com/uc?export=download&id=1y-zT4msvUxPSoJskxo9mgv92nq_jG8UI)
